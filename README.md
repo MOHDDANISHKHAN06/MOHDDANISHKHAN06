@@ -25,6 +25,10 @@ Software Developer | AI & Data Insights Enthusiast | MSCS @ ASU
 
 ### My Projects
 Here are some projects I've passionately worked on:
+1. **St. Himark Resilience Hub: Earthquake Response & Recovery Tracker**: The "St. Himark Resilience Hub" is a web application developed to enhance situational awareness and aid in the disaster response following a significant earthquake in St. Himark. Leveraging crowdsourced data, the application aims to provide a real-time overview of the affected areas, prioritize emergency responses, and facilitate efficient resource allocation. For a working web app, visit: [St. Himark Resilience Hub](https://earthquake-damage-report.vercel.app/).
+2. **ASL Gesture Recognition Platform**: Developing a TensorFlow-based model with Google's MediaPipe for precise ASL gesture recognition, promoting inclusivity in digital communication.
+3. **Hand Gesture Machine Learning Analysis**: Building and evaluating machine learning models for hand gesture recognition, aimed at improving user interface inputs.
+
 
 ### Continuous Learning
 🌱 I'm constantly exploring new technologies and methodologies to enhance my skills, particularly in the realms of AI and cloud computing.
