@@ -20,7 +20,7 @@ Software Developer | AI & Data Insights Enthusiast | MSCS @ ASU
 ### What I Do
 - 💻 **Software Development**: Developing high-quality, scalable software applications.
 - ☁️ **Cloud Solutions**: Utilizing Azure, AWS, Vercel for optimized application deployment and management.
-- 🔄 **Data Visualisation and AI**: Working on projects that transform data into actionable insights using AI.
+- 🔄 **Data Visualization and AI**: Working on projects that transform data into actionable insights using AI.
 - 🌐 **Continuous Learning**: Always expanding my skills, currently diving deeper into AI and cloud technologies.
 
 ### My Projects
