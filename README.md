@@ -31,7 +31,7 @@ Here are some projects I've passionately worked on:
 4. **Stock Trading Platform**: A comprehensive application for modern stock trading, blending user interaction with administrative management. Built on Java Spring Boot and MySQL, this platform supports functionalities including account creation, stock trading, and financial transactions, facilitated through a ReactJS-based interface for an intuitive user experience. It demonstrates my ability to create scalable, real-time responsive applications for the financial market.
     - Client Repository: [StockTradingPlatformClient](https://github.com/MOHDDANISHKHAN06/StockTradingPlatformClient)
     - Server Repository: [Stock-Trading-Platform](https://github.com/MOHDDANISHKHAN06/Stock-Trading-Platform)
-    - For web visit : [Stock Trading Platform](https://stock-trading-platform-client.vercel.app/)
+    - For a web app, visit : [Stock Trading Platform](https://stock-trading-platform-client.vercel.app/)
 
 
 
