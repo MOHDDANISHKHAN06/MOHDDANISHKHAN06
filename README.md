@@ -31,6 +31,6 @@ Here are some projects I've passionately worked on:
 
 ### Let's Connect
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:mkhan118@asu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhan118@asu.edu)
 
 I'm eager to collaborate on projects that push the boundaries of software development and Machine Learning. Let's create something amazing together!
