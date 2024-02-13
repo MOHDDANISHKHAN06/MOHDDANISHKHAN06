@@ -14,8 +14,6 @@ Software Developer | AI & Data Insights Enthusiast | MSCS @ ASU
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1QQgZK4-de4GVeEQ7YaUEiVZW1O2hkxu-/view?usp=drive_link) 
 
-![Profile Views](https://camo.githubusercontent.com/82613d9c3926212e9c1934d1c7aec3491f360511ffe4ae6fd43b4c69fd9a8ef9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f77696d70797761726c6f72642f636f756e742e737667)
-
 
 🔍 I'm a dedicated MSCS student at Arizona State University and a seasoned software developer with a passion for leveraging technology to solve complex problems. Specializing in Java, Spring, Python, ML, and diffusion models, I aim to build scalable and robust software solutions.
 
