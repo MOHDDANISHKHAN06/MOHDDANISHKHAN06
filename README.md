@@ -26,13 +26,11 @@ Software Developer | AI & Data Insights Enthusiast | MSCS @ ASU
 ### My Projects
 Here are some projects I've passionately worked on:
 1. **St. Himark Resilience Hub: Earthquake Response & Recovery Tracker**: The "St. Himark Resilience Hub" is a web application developed to enhance situational awareness and aid in the disaster response following a significant earthquake in St. Himark. Leveraging crowdsourced data, the application aims to provide a real-time overview of the affected areas, prioritize emergency responses, and facilitate efficient resource allocation. For a working web app, visit: [St. Himark Resilience Hub](https://earthquake-damage-report.vercel.app/).
-2. **ASL Gesture Recognition Platform**: Developed a TensorFlow-based model with Google's MediaPipe for precise ASL gesture recognition, promoting inclusivity in digital communication.
-3. **Hand Gesture Machine Learning Analysis**: Building and evaluating machine learning models for hand gesture recognition, aimed at improving user interface inputs.
+2. **ASL Alphabet Recognition**: This project combines TensorFlow, MediaPipe, and MediaPipe Model Maker to create a model that recognizes ASL alphabets from images, demonstrating the synergy of machine learning and computer vision to facilitate communication for the deaf and hard of hearing community. [GitHub Repository](https://github.com/MOHDDANISHKHAN06/MediaPipe).
+3. **Hand Gesture Recognitions using Unity and Leap Motion Controller**: An exploration into machine learning models for recognizing hand gestures, enhancing user interface inputs. This project delves into model building and evaluation for intuitive interaction technologies. [GitHub Repository](https://github.com/MOHDDANISHKHAN06/Hand-Gesture-ML-Analysis).
 4. **Stock Trading Platform**: A comprehensive application for modern stock trading, blending user interaction with administrative management. Built on Java Spring Boot and MySQL, this platform supports functionalities including account creation, stock trading, and financial transactions, facilitated through a ReactJS-based interface for an intuitive user experience. It demonstrates my ability to create scalable, real-time responsive applications for the financial market.
     - Client Repository: [StockTradingPlatformClient](https://github.com/MOHDDANISHKHAN06/StockTradingPlatformClient)
     - Server Repository: [Stock-Trading-Platform](https://github.com/MOHDDANISHKHAN06/Stock-Trading-Platform)
-    - For a web app, visit : [Stock Trading Platform](https://stock-trading-platform-client.vercel.app/)
-
 
 
 ### Continuous Learning
