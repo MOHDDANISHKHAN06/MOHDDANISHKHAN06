@@ -12,7 +12,7 @@ Software Developer | AI & Data Insights Enthusiast | MSCS @ ASU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishkhan0609/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1QQgZK4-de4GVeEQ7YaUEiVZW1O2hkxu-/view?usp=drive_link) 
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/11RN8GfJNhDhrBiVy8GZ0i6lm52dufrD1/view?usp=sharing) 
 
 
 🔍 I'm a dedicated MSCS student at Arizona State University and a seasoned software developer with a passion for leveraging technology to solve complex problems. Specializing in Java, Spring, Python, ML, and diffusion models, I aim to build scalable and robust software solutions.
